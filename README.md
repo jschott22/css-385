@@ -18,3 +18,6 @@ The ship follows a loose path and encounters various anomalies or obstacles alon
 
 Each crewmate selects a role (pilot, tactician, engineer, captain). Each role comes with specified duties and responsibilities that must be observed or fulfilled to increase chances of success. Certain duties require communicating observations that may be used by the other crewmates. Some duties are as simple as a button press; others may require more skillful interactions (Figure 2).
 
+MECHANICS
+
+Players can move freely around the bridge and choose to sit down at various control consoles. Once sat down, they can freely move the camera to look at different controls, which they can control through keyboard inputs as displayed through a UI indicator. They must use the controls to steer the ship, utilize the weapons systems, and other tasks to complete the scenarios and preserve the integrity of the ship.
